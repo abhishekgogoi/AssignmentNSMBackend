@@ -43,4 +43,4 @@ This specifies the port on which the server will run.
 
 4. Start the Server
 To start the server in development mode, run:
-npm run dev
+node server.js
