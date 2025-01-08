@@ -2,7 +2,7 @@
   "transactions": [
     {
       "id": 1,
-      "phase": "İŞLEM DOSYALARI / TRANSACTION",
+      "phase": "İŞLEM DOSYALARI / TRANSACTION...",
       "subPhase": "4 Sub Phase",
       "status": "Continuing",
       "statusColor": "bg-yellow-400",
